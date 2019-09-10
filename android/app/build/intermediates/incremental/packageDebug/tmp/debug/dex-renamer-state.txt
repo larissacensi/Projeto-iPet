@@ -1,4 +1,4 @@
-#Fri Sep 06 19:54:13 BRT 2019
+#Tue Sep 10 16:51:11 BRT 2019
 base.0=D\:\\Alex\\Documents\\Programming\\iPet\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
