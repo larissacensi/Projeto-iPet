@@ -11,7 +11,7 @@ import {
 
 export default class App extends Component {
 
-//
+// Willyam
   componentDidMount() {
     Keyboard.dismiss();
   }
