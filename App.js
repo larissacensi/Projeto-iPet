@@ -11,7 +11,8 @@ import {
 
 export default class App extends Component {
 
-  // Alex
+  // Alex e Wylliam
+
   componentDidMount() {
     Keyboard.dismiss();
   }
